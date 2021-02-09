@@ -1,0 +1,15 @@
+{
+  "name": "express-openapi-example",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "nodemon src/app",
+    "start": "node src/app"
+  },
+  "dependencies": {
+    "@wesleytodd/openapi": "^0.1.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
